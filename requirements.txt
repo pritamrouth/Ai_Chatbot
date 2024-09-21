@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pillow
+speech_recognition
+pyttsx3
+pywhatkit
+datetime
+wikipedia
